@@ -1,0 +1,40 @@
+body {
+    background: #f8fafc;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.custom-nav {
+    background: #0f172a;
+}
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #14b8a6 !important;
+    letter-spacing: 2px;
+}
+
+.hero {
+    padding: 100px 0;
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    color: white;
+    text-align: center;
+}
+
+.btn-main {
+    background: #14b8a6;
+    color: white;
+    border: none;
+}
+
+.btn-main:hover {
+    background: #0d9488;
+    color: white;
+}
+
+.footer {
+    background: #0f172a;
+    color: white;
+    padding: 20px;
+    margin-top: 60px;
+}
