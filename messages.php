@@ -1,7 +1,7 @@
 <?php
 session_start();
-if (!isset($_SESSION['company_id'])) {
-    header('Location: login.php');
+if (!isset($_SESSION['student_id'])) {
+    header('Location: ../../login.php');
     exit();
 }
 include '../../includes/header.php';
